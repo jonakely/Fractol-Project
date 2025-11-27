@@ -9,7 +9,7 @@ Le respect des bonnes pratiques de développement et de structuration du code.
 
 Installation et Compilation :
 1 - Cloner le dépôt :
-git clone https://github.com/toncompte/fractol.git
+git clone https://github.com/jonakely/Fractol-Project.git
 cd fractol
 
 2 - Compiler le projet avec Make :
